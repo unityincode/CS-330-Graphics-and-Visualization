@@ -1,7 +1,7 @@
 # CS-330-Graphics-and-Visualization
 SNHU 
 
-1.How do I approach designing software?
+1. How do I approach designing software?
 I start by understanding the project requirements and breaking down the design into manageable parts. For the 3D scene, I focused on using basic shapes, point lighting, and camera controls to meet the project’s goals.
 New design skills gained included modularizing code and efficiently using low-polygon models while maintaining visual quality.
 These skills can be applied to future projects by helping me create well-organized codebases and optimizing resource usage for better performance.
